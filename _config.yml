@@ -7,7 +7,7 @@ title: Peter Strein
 subtitle: Software Developer
 description: Hi, I'm Peter Strein! This is my Website! Below are some articles that I have wrote about myself. They are not in any particular order. If you want them in order, click on the Resume button at the top. Enjoy the website!
 author: Peter Strein
-language:
+language: en
 timezone:
 
 # URL
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: edinburgh
+theme: tranquilpeak-user
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -79,3 +79,12 @@ menu:
   Resume: /resume
   FaceBook: https://www.facebook.com/peter.strein.1
   LinkedIn: https://www.linkedin.com/in/peter-strein-1b1059126/
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
+  keywords:
+  - hexo
+  - javascript
