@@ -13,16 +13,16 @@ Expected Graduation: Apr 2019
 ***
 
 ## Work
-### [BYU Broadcasting](/2017/05/02/BYUBroadCasting/)
+### [BYU Broadcasting](/2017/05/04/BYUBroadcasting/)
 
 ##### September 2016 - May 2017 
 Computer Programmer
-[Developer for BYUTV3 Platform](/2017/05/02/BYUTV/)
+[Developer for BYUTV3 Platform](/2017/05/04/BYUTV/)
 
-### [CIRA - Cooperative Institute for Research in the Atmosphere](/2017/05/02/CIRA/)
+### [CIRA - Cooperative Institute for Research in the Atmosphere](/2017/05/03/CIRA/)
 ##### June 2016 - August 2016
 Computer Programmer and Web Developer
-Developed [JobBuilder](/2017/05/04/JobBuilder/), [GapDetector](/2017/05/04/GapDetector/), and [GapAnalyzer](/2017/05/04/GapAnalyzer/)
+Developed [JobBuilder](/2017/05/03/JobBuilder/), [GapDetector](/2017/05/03/GapDetector/), and [GapAnalyzer](/2017/05/03/GapAnalyzer/)
 
 ***
 
@@ -33,11 +33,11 @@ Developed [JobBuilder](/2017/05/04/JobBuilder/), [GapDetector](/2017/05/04/GapDe
 
 
 ### Side 
-[Changing Dynamics](/2017/05/04/ChangingDynamics/)
-[Origami Samurai](/2017/05/04/OrigamiSamurai/)
+[Changing Dynamics](/2017/05/01/ChangingDynamics/)
+[Origami Samurai](/2017/05/01/OrigamiSamurai/)
 
 ### Other
-[Landlord Rent IMacro](/2017/05/04/LandlordImacro/)
+[Landlord Rent IMacro](/2017/05/02/LandlordImacro/)
 
 ***
 
