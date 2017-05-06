@@ -3,6 +3,13 @@ title: Family Map
 date: 2017-05-04 12:37:59
 tags:
 cover_image: images/family_map_client.jpg
+thumbnailImage: family_map_client.jpg
+autoThumbnailImage: yes
+coverImage: family_map_client.jpg
+thumbnailImagePosition: right
+coverSize: partial
+coverCaption: I'm a caption
+coverMeta: out
 ---
 
 Family Map was a project for my CS240 class at BYU. That class had only major projects - the family map server and the family map client, and they were related to each other.

@@ -1,5 +1,5 @@
 ---
-title: resume
+title: Resume
 date: 2017-05-02 10:38:30
 ---
 
